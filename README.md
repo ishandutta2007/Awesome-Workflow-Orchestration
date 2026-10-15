@@ -74,7 +74,7 @@ Below is a breakdown of prominent managed workflow orchestration services, sorte
 
 ## 🐙 Open-Source GitHub Projects
 
-The open-source workflow ecosystem provides complete infrastructure ownership, local developer testability, and freedom from vendor lock-in. Below are the leading open-source repositories, **sorted descending by GitHub star count**.
+The open-source workflow ecosystem provides complete infrastructure ownership, local developer testability, and freedom from vendor lock-in. Below are the leading open-source repositories, **sorted descending by GitHub Stars_Count**.
 
 ### 1. [Apache Airflow](https://github.com/apache/airflow) [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
 - **Primary Language**: Python | **License**: Apache-2.0
@@ -188,7 +188,7 @@ Contributions are welcome and deeply appreciated! Help keep this guide accurate,
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-orchestration-tool`).
 3. 📝 **Update or add entries** following the established format:
    - For SaaS: Name, link, company size/valuation, exact starting price, free tier/trial limit, and key strengths.
-   - For Open-Source: Name, GitHub repository link, star badge (`style=social&color=white` linking to stargazers), language, license, and concise summary.
+   - For Open-Source: Name, GitHub repository link, Stars_Badge (`style=social&color=white` linking to stargazers), language, license, and concise summary.
 4. 🧪 **Ensure all links are working and Markdown renders cleanly.**
 5. 🚀 **Submit a Pull Request** with a brief summary of additions or updates.
 
